@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jlloyd0430
 - 👀 I’m interested in traditional software engineering and blockchain technology
-- 🌱 I’m currently learning JS, node.js, express.js, react.js, web design
-- 💞️ I’m looking to collaborate on anything to grow my portfolio 
+- 👨🏻‍💻 currently learning fullstack software development at noble desktop
+- 💞 I’m looking to collaborate on anything to grow my portfolio 
 - 📫 How to reach me jesselloyd911@gmail.com
 
 <!---
