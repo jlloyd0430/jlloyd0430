@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bitcoins_son
+- 👋 Hi, I’m @jlloyd0430
 - 👀 I’m interested in software engineering and blockchain technology
 - 👨🏻‍💻 currently looking to get a career in web development
 - 💞 I’m looking to collaborate on anything to grow my portfolio 
